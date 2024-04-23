@@ -182,3 +182,7 @@ for(let i=0;i<dias.lengt;i++)
 1. Dada una lista de números separados por coma, calcular la suma, el mayor, el menor y la media de todos.
 
 2. Introducir dos cadenas con elementos separados por coma, y con un botón concatenar las dos cadenas y mostrarlas en pantalla.
+
+3. Introducir uno a uno los elementos en un array a través de un boton. Con otro botón se va eliminado el último elemento. Siempre que se pulse alguno de los botones de debe mostrar el contenido del array.
+
+4. Introducir un conjunto de números separados por comas. Cuando se pulsa el botón "Pares" cargar una tabla con los números introducidos y luego crear otra que solo incluya los números pares y mostrarla.
